@@ -10,8 +10,8 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="2506040030006990" />
   <Description DefaultValue="A template to get started." />
-  <IconUrl DefaultValue="https://daruma.lusp.in/officeAddins/2506040030006990/PUBLIC/assets/icon-64.png" />
-  <HighResolutionIconUrl DefaultValue="https://daruma.lusp.in/officeAddins/2506040030006990/PUBLIC/assets/icon-128.png" />
+  <IconUrl DefaultValue="https://luspin.github.io/2506040030006990/assets/icon-64.png" />
+  <HighResolutionIconUrl DefaultValue="https://luspin.github.io/2506040030006990/assets/icon-128.png" />
   <SupportUrl DefaultValue="https://www.contoso.com/help" />
   <AppDomains>
     <AppDomain>https://www.contoso.com</AppDomain>
@@ -27,7 +27,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://daruma.lusp.in/officeAddins/2506040030006990/PUBLIC/taskpane/taskpane.html" />
+        <SourceLocation DefaultValue="https://luspin.github.io/2506040030006990/taskpane/taskpane.html" />
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -81,12 +81,12 @@
       </Hosts>
       <Resources>
         <bt:Images>
-          <bt:Image id="Icon.16x16" DefaultValue="https://daruma.lusp.in/officeAddins/2506040030006990/PUBLIC/assets/icon-16.png" />
-          <bt:Image id="Icon.32x32" DefaultValue="https://daruma.lusp.in/officeAddins/2506040030006990/PUBLIC/assets/icon-32.png" />
-          <bt:Image id="Icon.80x80" DefaultValue="https://daruma.lusp.in/officeAddins/2506040030006990/PUBLIC/assets/icon-80.png" />
+          <bt:Image id="Icon.16x16" DefaultValue="https://luspin.github.io/2506040030006990/assets/icon-16.png" />
+          <bt:Image id="Icon.32x32" DefaultValue="https://luspin.github.io/2506040030006990/assets/icon-32.png" />
+          <bt:Image id="Icon.80x80" DefaultValue="https://luspin.github.io/2506040030006990/assets/icon-80.png" />
         </bt:Images>
         <bt:Urls>
-          <bt:Url id="Taskpane.Url" DefaultValue="https://daruma.lusp.in/officeAddins/2506040030006990/PUBLIC/taskpane/taskpane.html" />
+          <bt:Url id="Taskpane.Url" DefaultValue="https://luspin.github.io/2506040030006990/taskpane/taskpane.html" />
         </bt:Urls>
         <bt:ShortStrings>
           <bt:String id="GroupLabel" DefaultValue="Item Multi-select" />
